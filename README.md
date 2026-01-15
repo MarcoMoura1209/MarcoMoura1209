@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/marco-antonio-moura-alves-4142b12b6" target="_blank">
+  <a href="https://linkedin.com/in/marco-antonio-moura-alves-4142b12b6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/qr/S6H7D4BN7XKXL1" target="_blank">
