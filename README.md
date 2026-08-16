@@ -2,7 +2,17 @@
 
 ###
 
-<p align="center">Sou estudante de Informática para Internet, com conhecimentos em HTML, CSS, JavaScript e Python, incluindo automação e criação de aplicações. Desenvolve projetos próprios no GitHub e busca uma oportunidade de estágio ou vaga júnior para adquirir experiência prática e crescer na área de tecnologia.</p>
+<p align="center">Sou estudante do Ensino Médio e Técnico em Informática para Internet, com experiência prática no desenvolvimento de aplicações web.
+
+Atualmente atuo como Desenvolvedor Full Stack, participando do desenvolvimento de soluções desde a construção das interfaces até a implementação do back-end.
+
+Tenho interesse principalmente em desenvolvimento de software, desenvolvimento web, arquitetura de aplicações e tecnologias que tornam o processo de desenvolvimento mais eficiente.
+
+Ao longo da minha formação, venho desenvolvendo projetos utilizando tecnologias como JavaScript, Python, Git e GitHub, além de estudar continuamente novas ferramentas e boas práticas de desenvolvimento.
+
+Também tenho experiência com organização e gestão de projetos, trabalhando com metodologias de organização de tarefas e acompanhamento de entregas.
+
+Atualmente, meu objetivo é continuar evoluindo tecnicamente, adquirir experiência em projetos reais e construir uma carreira sólida na área de desenvolvimento de software.</p>
 
 ###
 
